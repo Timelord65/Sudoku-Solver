@@ -19,3 +19,5 @@ entry the gui is updated with the correct/inserted answer.
 ### Plans:
 1. To improve change the spacebar feature and to make sure that the gui shows all the previously filled correct answer in a 
 green outline and the wrong ones with a red outline. 
+2. To make a more intuitive GUI. 
+3. To try and avoid the use of deprecated functions. 
